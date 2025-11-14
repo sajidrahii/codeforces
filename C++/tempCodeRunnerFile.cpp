@@ -1,1 +1,1 @@
-true
+cout << winner;
